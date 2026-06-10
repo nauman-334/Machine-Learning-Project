@@ -19,7 +19,7 @@ pip install -r requirements.txt
 
 ## Available files
 
-- `1stMLProject.py` — project script
+- `Machine-Learning-Project.py` — project script
 - `requirements.txt` — installed Python dependencies
 - `.gitignore` — ignores the `.venv/` folder
 
@@ -30,7 +30,7 @@ pip install -r requirements.txt
 3. Run the script with:
 
 ```bash
-python 1stMLProject.py
+python Machine-Learning-Project.py
 ```
 
 4. Or start Jupyter Notebook:
